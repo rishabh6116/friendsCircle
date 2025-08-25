@@ -911,7 +911,7 @@ iframe {
 }
 
 /* =========================== MEDIA QUERIES FOR MOBILE PHONES =========================== */
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 500px) {
   /* Sidebar fixed at bottom full width */
   .sidebar {
     position: fixed;
@@ -1067,4 +1067,5 @@ iframe {
 
 
 }
+
 
